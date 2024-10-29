@@ -8,7 +8,7 @@
 - 🛠️ Skilled in **C#, Java, JavaScript, Python**, and more  
 - 🔍 Learning **Rust** and **Data Structures & Algorithms**  
 - 📱 
-- ⚙️ Previously known on GitHub as **Joojmusic** @Joojmusic 
+- ⚙️ Previously known on GitHub as [Joojmusic](https://www.github.com/Joojmusic)
 
 ## 📌 Featured Projects  
 - **[PlayVids](https://github.com/004Ongoro/PlayVids)** – A mobile video player app with playlist support  
