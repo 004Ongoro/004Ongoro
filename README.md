@@ -4,7 +4,7 @@
 **Welcome to my GitHub!** I'm a passionate software developer with a love for building applications across platforms. I enjoy learning new technologies and continuously improving my skills.
 
 ## 🚀 About Me  
-- 💻 **Works** @ [Neon Tek](https://www.neontek.co.ke)  
+- 💻 Open to new opportunities  
 - 🛠️ Skilled in **C#, Java, JavaScript, Python**, and more  
 - 🔍 Learning **Rust** and **Data Structures & Algorithms**  
 - 📱 
@@ -17,7 +17,7 @@
 - **GelNotes** – A minimalist text editor like Notepad  
 
 ## 📫 Let's Connect  
-- 🌐 [Portfolio Website](https://georgeongoro.vercel.app)  
+- 🌐 [Portfolio Website](https://ongoro.vercel.app)  
 - 🐦 [Twitter / X](https://twitter.com/g_ongoro04)  
 - ✉️ Email: gtechong72@gmail.com  
 - 📞 Phone: +254 711667099 
