@@ -1,4 +1,4 @@
-# 👋 Hi, I'm 004Ongoro! Welcome to my GitHub 🚀
+# 👋 Hi, I'm George Ongoro! Welcome to my GitHub 🚀
 
 ![Banner](https://folio.ongoro.top/assets/img/profile-img.jpg)
 
@@ -8,7 +8,7 @@
 
 I'm a passionate software engineer specializing in full-stack, cloud, and desktop solutions. My mission is to develop robust, scalable applications that make life easier and businesses run smoother.
 
-- 💼 Owner of [NeonTek](https://neontek.io) and creator of 70+ public repositories
+- 💼 Co-founder of [NeonTek](https://neontek.co.ke) and creator of 70+ public repositories
 - 🎯 Committed to continuous learning and sharing knowledge
 - 📍 Based in [Your Location]
 
