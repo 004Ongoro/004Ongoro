@@ -14,6 +14,8 @@ I'm a passionate software engineer specializing in full-stack, cloud, and deskto
 
 ---
 
+<a href="https://app.daily.dev/georgeongoro"><img src="https://api.daily.dev/devcards/v2/JCfNZtLPNzTFifdLCBjRk.png?r=jm9&type=default" width="356" alt="George Ongoro's Dev Card"/></a>
+
 ## 🔥 Highlights & Statistics
 
 <p>
