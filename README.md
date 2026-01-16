@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://ongoro.top"><img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
   <a href="https://blog.ongoro.top"><img src="https://img.shields.io/badge/Blog-22c55e?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/georgeongoro"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://linkedin.com/in/georgeongoro2"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin"/></a>
   <a href="mailto:gtechong72@gmail.com"><img src="https://img.shields.io/badge/Email-ef4444?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
@@ -18,7 +18,7 @@
 
 ## 🧠 About Me
 
-I’m a **full-stack software developer** who loves building systems that actually *work* in the real world — not just demos.
+I’m a **full-stack software developer** who loves building systems that actually *work* in the real world  not just demos.
 
 I’m at my best when I’m:
 - designing systems  
@@ -29,8 +29,7 @@ I’m at my best when I’m:
 I care deeply about **simplicity, clarity, and long-term maintainability**.
 
 **Quick facts:**
-- 🧑‍💻 Co-founder of **[NeonTek](https://neontek.co.ke)**
-- 🗂️ Built **70+ public repositories**
+- 🗂️ Built **90+ repositories**
 - 🧠 Strong interest in **systems, tooling & architecture**
 - 🌍 Based in **Kenya**
 - 🤝 Open to collaboration & meaningful projects
