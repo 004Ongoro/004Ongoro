@@ -1,97 +1,116 @@
-# 👋 Hi, I'm George Ongoro! Welcome to my GitHub 🚀
+<!-- Animated Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+George+Ongoro;Full-Stack+Software+Developer;Builder+of+Useful+Things;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
+</p>
 
-![Banner](https://folio.ongoro.top/assets/img/profile-img.jpg)
+<p align="center">
+  <img src="https://folio.ongoro.top/assets/img/profile-img.jpg" width="160" style="border-radius:50%" />
+</p>
+
+<p align="center">
+  <a href="https://ongoro.top"><img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a href="https://blog.ongoro.top"><img src="https://img.shields.io/badge/Blog-22c55e?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/georgeongoro"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin"/></a>
+  <a href="mailto:gtechong72@gmail.com"><img src="https://img.shields.io/badge/Email-ef4444?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 ---
 
-## 🌟 About Me
+## 🧠 About Me
 
-I'm a passionate software engineer specializing in full-stack, cloud, and desktop solutions. My mission is to develop robust, scalable applications that make life easier and businesses run smoother.
+I’m a **full-stack software developer** who loves building systems that actually *work* in the real world — not just demos.
 
-- 💼 Co-founder of [NeonTek](https://neontek.co.ke) and creator of 70+ public repositories
-- 🎯 Committed to continuous learning and sharing knowledge
-- 📍 Based in [Your Location]
+I’m at my best when I’m:
+- designing systems  
+- writing clean, scalable code  
+- automating boring things  
+- or quietly debugging something at 2am ☕  
+
+I care deeply about **simplicity, clarity, and long-term maintainability**.
+
+**Quick facts:**
+- 🧑‍💻 Co-founder of **[NeonTek](https://neontek.co.ke)**
+- 🗂️ Built **70+ public repositories**
+- 🧠 Strong interest in **systems, tooling & architecture**
+- 🌍 Based in **Kenya**
+- 🤝 Open to collaboration & meaningful projects
 
 ---
 
-<a href="https://app.daily.dev/georgeongoro"><img src="https://api.daily.dev/devcards/v2/JCfNZtLPNzTFifdLCBjRk.png?r=jm9&type=default" width="356" alt="George Ongoro's Dev Card"/></a>
+## 🛠️ Tech I Actually Use
 
-## 🔥 Highlights & Statistics
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,php,nodejs,react,nextjs,css,docker,git,github,azure,java,csharp&perline=7" />
+</p>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=004Ongoro&show_icons=true&hide_title=true&theme=algolia" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=004Ongoro&theme=algolia" height="160"/>
-</p>
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=004Ongoro&theme=vue"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=004Ongoro&theme=vue"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=004Ongoro&theme=vue"/>
-</p>
+**What I build most:**
+- 🌐 Full-stack web apps (dashboards, CMSs, SaaS tools)
+- 🔐 Auth systems & identity platforms
+- 📊 Admin panels & analytics tools
+- 🖥️ Desktop utilities (C#)
+- ⚙️ APIs, integrations & internal tooling
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech Stack | Visual |
-|---------|-------------|------------|--------|
-| [realty-management-system](https://github.com/004Ongoro/realty-management-system) | Realty/Real Estate Management System | ![PHP](https://img.shields.io/badge/PHP-777bb4?style=flat&logo=php) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3) ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat&logo=docker) | <img src="https://github.com/004Ongoro/realty-management-system/raw/main/screenshot.png" height="40"/> |
-| [OAuth-system](https://github.com/004Ongoro/OAuth-system) | Official Auth System for NeonTek | ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logo=javascript) ![EJS](https://img.shields.io/badge/EJS-36a2e2?style=flat) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3) | <img src="https://github.com/004Ongoro/OAuth-system/raw/main/screenshot.png" height="40"/> |
-| [neontek-crm](https://github.com/004Ongoro/neontek-crm) | NeonTek Customer Relationship Management | ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat&logo=typescript) ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logo=javascript) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3) | <img src="https://github.com/004Ongoro/neontek-crm/raw/main/screenshot.png" height="40"/> |
-| [resume-generator](https://github.com/004Ongoro/resume-generator) | Effortless resume generator web app | ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logo=javascript) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3) | <img src="https://github.com/004Ongoro/resume-generator/raw/main/screenshot.png" height="40"/> |
-| [GsCapture](https://github.com/004Ongoro/GsCapture) | Lightweight desktop capture tool | ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp) | <img src="https://github.com/004Ongoro/GsCapture/raw/main/screenshot.png" height="40"/> |
+| Project | What it does |
+|------|------|
+| **[NeonTek OAuth System](https://github.com/004Ongoro/OAuth-system)** | Centralized authentication system for NeonTek apps |
+| **[Realty Management System](https://github.com/004Ongoro/realty-management-system)** | Complete real-estate management platform |
+| **[NeonTek CRM](https://github.com/004Ongoro/neontek-crm)** | Customer & operations management system |
+| **[Resume Generator](https://github.com/004Ongoro/resume-generator)** | Simple web-based resume builder |
+| **[GsCapture](https://github.com/004Ongoro/GsCapture)** | Lightweight Windows screen capture tool |
 
 <details>
-  <summary>✨ ...and 70+ more innovative projects. <strong>Browse them all on my GitHub!</strong></summary>
-  <ul>
-    <li><a href="https://github.com/004Ongoro?tab=repositories">All repositories</a></li>
-  </ul>
+<summary><strong>📦 70+ more projects</strong> (tools, experiments & real products)</summary>
+
+👉 https://github.com/004Ongoro?tab=repositories
+
 </details>
 
 ---
 
-## ⚡ Skills & Technologies
+## 📊 GitHub Activity
 
-<img src="https://skillicons.dev/icons?i=js,ts,php,css,nodejs,react,docker,git,github,azure,vscode,java,csharp&theme=light" height="30"/>
-
-- **Languages:** JavaScript, TypeScript, PHP, C#, Java
-- **Frameworks/Libraries:** Node.js, React, Express, EJS
-- **DevOps & Cloud:** Docker, Azure
-- **Desktop Apps:** C#
-- **Other:** WebApps, CRMs, Auth Systems, Image Processing
-
----
-
-## 🌱 Currently Learning
-
-- Advanced AI and Machine Learning
-- Cloud scalability & automation
-- Cutting-edge web architectures
-- System integrations
-
----
-
-## 🤝 Let's Connect
-
-- [LinkedIn](https://linkedin.com/in/georgeongoro)
-- [Twitter](https://twitter.com/georgeongoro)
-- [Portfolio](https://ongoro.top)
-- [Email](mailto:gtechong72@gmail.com)
-
----
-
-## 🏅 Achievements
-
-- 🚀 Built and open-sourced 70+ diverse projects
-- 🌍 Used by 1000+ global users
-- 🏆 4+ years of experience
-
----
-
-## 📈 Profile Visitors
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=004Ongoro.004Ongoro" alt="visitor badge"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=004Ongoro&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=004Ongoro&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=004Ongoro&theme=tokyonight" />
 </p>
 
 ---
 
-> _“Code is like humor. When you have to explain it, it’s bad.” — Cory House_
+## 🧪 What I’m Exploring Now
+
+- 🧠 AI-assisted developer tools
+- ☁️ Scalable cloud architectures
+- 🏗️ Better system design & abstractions
+- 📈 Product-driven engineering
+
+---
+
+## 🧩 Developer Card
+
+<p align="center">
+  <a href="https://app.daily.dev/georgeongoro">
+    <img src="https://api.daily.dev/devcards/v2/JCfNZtLPNzTFifdLCBjRk.png?type=default" width="350"/>
+  </a>
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=004Ongoro.004Ongoro"/>
+</p>
+
+---
+
+<p align="center">
+  <i>“Build things that matter. Optimize later.”</i>
+</p>
