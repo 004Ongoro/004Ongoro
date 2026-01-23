@@ -95,9 +95,7 @@ I care deeply about **simplicity, clarity, and long-term maintainability**.
 ## 🧩 Developer Card
 
 <p align="center">
-  <a href="https://app.daily.dev/georgeongoro">
-    <img src="https://api.daily.dev/devcards/v2/JCfNZtLPNzTFifdLCBjRk.png?type=default" width="350"/>
-  </a>
+  <a href="https://app.daily.dev/georgeongoro"><img src="https://api.daily.dev/devcards/v2/JCfNZtLPNzTFifdLCBjRk.png?type=wide&r=biz" width="652" alt="George Ongoro's Dev Card"/></a>
 </p>
 
 ---
