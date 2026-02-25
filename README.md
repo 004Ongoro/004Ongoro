@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://folio.ongoro.top/assets/img/profile-img.jpg" width="160" style="border-radius:50%" />
+  <img src="https://raw.githubusercontent.com/004Ongoro/ongoro-blog-assets/refs/heads/main/1000678842-removebg-preview.png" width="160" style="border-radius:50%" />
 </p>
 
 <p align="center">
