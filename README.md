@@ -1,31 +1,27 @@
-<!-- Modern Animated Header -->
+<!-- Minimal Modern Header -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=George+Ongoro+👋;Full-Stack+Software+Architect;Scaling+Systems.+Crafting+Code.;Building+the+Future.)](https://github.com/004Ongoro)
-
----
-
-## 🎯 About Me
-
-I'm a **Full-Stack Software Architect** passionate about designing elegant, scalable solutions. With **100+ repositories** across diverse domains, I build systems that matter—from AI-powered automation to enterprise platforms.
-
-**My philosophy:** *Build systems that scale. Code that lasts. Impact that matters.*
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=George+Ongoro+👋;Full-Stack+Software+Architect;Scaling+Systems.+Crafting+Code.)](https://github.com/004Ongoro)
 
 </div>
 
 ---
 
-### 📍 Quick Profile
+## About Me
 
-- 🌍 **Location:** Nairobi, Kenya
-- 🏗️ **Production Repos:** 90+
-- 💡 **Expertise:** Full-Stack Development, Systems Architecture, DevOps, AI Integration
-- 🎯 **Focus Areas:** SaaS, E-commerce, EdTech, Real Estate, Enterprise Solutions
-- 🤝 **Open to:** Collaboration, Consulting, Meaningful Projects
+I'm a **Full-Stack Software Architect** building scalable systems and elegant solutions. Passionate about clean code, system design, and solving complex problems.
+
+**Philosophy:** *Build systems that scale. Code that lasts. Impact that matters.*
+
+<div align="center">
+
+**📍 Nairobi, Kenya** • **🏗️ 90+ Production Repos** • **💡 Full-Stack | Architecture | DevOps**
+
+</div>
 
 ---
 
-## 🚀 Connect With Me
+## Connect
 
 <div align="center">
 
@@ -39,7 +35,7 @@ I'm a **Full-Stack Software Architect** passionate about designing elegant, scal
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -54,66 +50,12 @@ I'm a **Full-Stack Software Architect** passionate about designing elegant, scal
 ![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </div>
 
-### 🛠️ Architecture & Expertise
-
-**Backend:** Node.js • Go • Java • PHP  
-**Frontend:** React • Next.js • TypeScript • Tailwind CSS  
-**Databases:** PostgreSQL • MongoDB • Redis  
-**DevOps:** Docker • AWS • GitHub Actions • CI/CD  
-**Specialties:** Microservices • Cloud Architecture • AI Integration
-
 ---
 
-## 🎨 What I Build
-
-```
-✨ Full-stack web applications (SaaS, dashboards, CMSs)
-🤖 AI-powered automation & integration systems
-💼 Enterprise CRM & business management platforms
-🛒 E-commerce & marketplace solutions
-☁️ Cloud-native microservices architecture
-🛠️ CLI tools & developer utilities
-⚡ Real-time collaborative applications
-📚 Educational & learning management systems
-💻 Desktop applications (.NET/C#)
-```
-
----
-
-## ⭐ Featured Projects
-
-### 🤖 AI & Automation
-- **[AI Webpage Generator](https://github.com/004Ongoro/AI-Webpage-Generator)** – Open-source AI landing page generator
-- **[AI Birthday Card Generator](https://github.com/004Ongoro/AI-birthday-card-generator)** – Intelligent birthday card creation
-- **[ChatGPT Prompts Hub](https://github.com/004Ongoro/awesome-chatgpt-prompts)** – Curated SEO-optimized prompt library
-
-### 💼 CRM & Business Systems
-- **[NeonTek CRM](https://github.com/004Ongoro/neontek-crm)** – Enterprise customer management system
-- **[Quill CRM](https://github.com/004Ongoro/quill-crm)** – Lightweight CRM for freelancers
-- **[Deep Read CRM](https://github.com/004Ongoro/dr-crm)** – Advanced reading & content management
-
-### 🛒 E-commerce & Marketplaces
-- **[Artiva Furniture Commerce](https://github.com/004Ongoro/artiva-funiture-commerce)** – Premium furniture marketplace
-- **[Elegant Villa E-commerce](https://github.com/004Ongoro/elegant-villa-ecommerce)** – Full-featured property marketplace
-- **[Modern E-commerce](https://github.com/004Ongoro/ecommerce)** – Stripe-integrated shopping platform
-
-### 🛠️ Developer Tools & CLI
-- **[SwiftStack](https://github.com/004Ongoro/swiftstack)** – High-speed project scaffolder (Go)
-- **[TidyUp](https://github.com/004Ongoro/tidyup)** – Package manager cleanup tool
-- **[Quill Editor](https://github.com/004Ongoro/quill-editor)** – Lightweight, zen-mode code editor
-
-### 📚 Educational Platforms
-- **[Shele Cloud](https://github.com/004Ongoro/shele-cloud)** – Multi-school management system
-- **[EduManager Desktop](https://github.com/004Ongoro/edumanager-desktop)** – School management desktop app
-- **[Bible Plan App](https://github.com/004Ongoro/bible-plan-app)** – Reading plan management
-
----
-
-## 📊 GitHub Analytics
+## GitHub Stats
 
 <div align="center">
 
@@ -121,43 +63,27 @@ I'm a **Full-Stack Software Architect** passionate about designing elegant, scal
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=004Ongoro&theme=tokyonight&hide_border=true&background=0D1117)](https://github.com/004Ongoro)
 
-[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=004Ongoro&theme=tokyonight)](https://github.com/004Ongoro)
+</div>
+
+---
+
+## Developer Profile
+
+<div align="center">
+
+[![Dev Card](https://api.daily.dev/devcards/v2/JCfNZtLPNzTFifdLCBjRk.png?type=wide&r=biz)](https://app.daily.dev/georgeongoro)
 
 </div>
 
 ---
 
-## 🎓 Currently Exploring
+## What I'm Into
 
-- 🧠 **Advanced AI Integration** – Building intelligent features into applications
-- ☁️ **Cloud Architecture** – Designing scalable, fault-tolerant systems
-- 🏗️ **System Design** – Deep diving into distributed systems patterns
-- ⚡ **Performance Optimization** – Crafting lightning-fast applications
-- 🔐 **Security & Authentication** – Modern auth systems and OAuth flows
-
----
-
-## 💡 Development Philosophy
-
-```javascript
-const myApproach = {
-  quality: "Write code you'd be proud to maintain",
-  simplicity: "Complexity is the enemy of maintenance",
-  scalability: "Design for 10x growth from day one",
-  documentation: "Your future self will thank you",
-  testing: "Tests are love letters to your code",
-  impact: "Code that matters, shipping that counts"
-};
-```
-
----
-
-## 🎯 Open For
-
-- 🤝 **Collaboration** on impactful projects
-- 📖 **Technical consulting** & architecture reviews
-- 🚀 **Full-stack development** engagements
-- 💬 **Knowledge sharing** & mentoring
+- 🧠 Advanced AI Integration & LLM applications
+- ☁️ Scalable cloud architecture & system design
+- 🏗️ Distributed systems & microservices
+- ⚡ Performance optimization & scaling
+- 🔐 Security, authentication & OAuth flows
 
 ---
 
@@ -165,10 +91,6 @@ const myApproach = {
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=004Ongoro.004Ongoro&left_color=00D9FF&right_color=272B3A)
 
----
-
 > **"Building things that matter, one commit at a time."**
->
-> *Let's create something extraordinary together.*
 
 </div>
