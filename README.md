@@ -94,3 +94,5 @@ I'm a **Full-Stack Software Architect** building scalable systems and elegant so
 > **"Building things that matter, one commit at a time."**
 
 </div>
+
+![Alt](https://repobeats.axiom.co/api/embed/65b8d4c9bbe16b13e553c81add81a8918868ebbc.svg "Repobeats analytics image")
