@@ -21,12 +21,13 @@ I'm a **Full-Stack Software Architect** building scalable systems and elegant so
 
 ---
 
+
 ## Connect
 
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-00D9FF?style=for-the-badge&logoColor=white)](https://ongoro.top)
-[![Blog](https://img.shields.io/badge/📝_Blog-22c55e?style=for-the-badge&logoColor=white)](https://code.geohack.top)
+[![Blog](https://code.geohack.top/ongoro-badge.svg)](https://code.geohack.top)
 [![Newsletter](https://img.shields.io/badge/📬_Newsletter-FF6B6B?style=for-the-badge&logoColor=white)](https://code.geohack.top/newsletter)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0a66c2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/georgeongoro2)
 [![Email](https://img.shields.io/badge/✉️_Email-ef4444?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gtechong72@gmail.com)
